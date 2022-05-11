@@ -1,2 +1,2 @@
 # Bad Words Filter
-Bad Words Filter
+Keyboard bad words filter
