@@ -1,4 +1,4 @@
 # Bad Words Filter
 Keyboard bad words filter
 
-![Без названия](https://user-images.githubusercontent.com/90633453/167861280-0e31ba69-270c-43db-b34d-d77d30ed37d5.jpg)
+![bwf](https://user-images.githubusercontent.com/90633453/167863768-6ae36b93-1a22-4493-ba77-fc04d2c3608a.jpg)
